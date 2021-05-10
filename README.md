@@ -1,2 +1,2 @@
 # MyNotebook
-Simple Notebook App
+Simple Notebook App for android
